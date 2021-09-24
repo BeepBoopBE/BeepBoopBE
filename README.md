@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BeepBoopBE
+- 👀 I’m interested in Law
+- 🌱 I’m currently learning CS50 for Lawyer
